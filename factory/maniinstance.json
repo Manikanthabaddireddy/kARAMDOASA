@@ -1,0 +1,9 @@
+{
+	"name": "maniinstance",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5ee839ef-2ade-4aed-b8d9-fb41c46a086e",
+		"tenantId": "9b8f020b-5472-427c-a2db-78a9e48a484d"
+	}
+}
